@@ -3,4 +3,4 @@ small saltychat voice range
 
 
 #server.cfg
-ensure Salty_Range
+ensure Salty_Range 
